@@ -151,9 +151,9 @@ We welcome contributions from the open-source community!
 This project is licensed under the MIT License.
 
 👨‍💻 Author
-Navanitha Pothuganti
-📧 pothugantinavanithareddy29@gmail.com 
-🔗 linkedin.com/in/pothuganti-navanitha-73a119301
-🔗 github.com/PothugantiNavanitha 
+Tiragamalla SHivani
+📧 tiragamallashivani@gmail.com
+🔗 linkedin.com/in/tiragamallashivani
+🔗 github.com/Shivani19406
 
 🌾 GreenVision: Empowering Agriculture with AI – One Leaf at a Time.
